@@ -3,7 +3,7 @@
 <h3 align="center">A beginner developer focused on Front-End and sometimes studying Back-End</h3> <br>
 
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying Computer Science
+- 🌱 Studying Computer Science
 
 - 🌱 I am currently studying in [Rocketseat](https://github.com/Rocketseat) about JavaScript, AngularJS, ReactJS
 
