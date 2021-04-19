@@ -7,9 +7,9 @@
 
 - 🌱 I am currently studying in [Rocketseat](https://github.com/Rocketseat) about JavaScript, AngularJS, ReactJS
 
-- 💻 I’m very excited to learn and work with Front-End
+- 💻 I’m very excited to learn and work with WEB Development
 
-- 💬 Ask me about **AngularJS, ReactJS, Typescript**
+- 💬 Ask me about **AngularJS, ReactJS, React Native, Typescript**
 
 - ✉ How to reach me **luis.felipebs.silva@gmail.com**
 
