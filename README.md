@@ -31,7 +31,7 @@
 <br>
 
 <!-- API | MYGITHUB -->
-<p align="center">
+<p align="center" flex-direction="row">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Lipekline&show_icons=true&hide_border=true&theme=nightowl"/> 
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipekline&layout=compact&hide_border=true&theme=nightowl" alt="Linguagens de programação mais usadas"/>
 </p>
