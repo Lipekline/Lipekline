@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO -->
 <h1 align="center">Hi Githuber <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luís Felipe<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
-<h3 align="center">A beginner developer focused on Front-End and sometimes studying Back-End</h3> <br>
+<h3 align="center">A little mid-level programmer, passionate about front-end, and venturing into back-end.</h3> <br>
 
 <!-- SOBRE MIM -->
 - 🥇 Graduated in Computer Science
