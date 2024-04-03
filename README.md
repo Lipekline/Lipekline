@@ -3,11 +3,11 @@
 <h3 align="center">A beginner developer focused on Front-End and sometimes studying Back-End</h3> <br>
 
 <!-- SOBRE MIM -->
-- 🌱 Studying Computer Science
+- 🥇 Graduated in Computer Science
 
-- 🌱 I am currently studying in [Rocketseat](https://github.com/Rocketseat) about JavaScript, AngularJS, ReactJS
+- 🧠 Even though graduated, I still continue studying about: JavaScript, AngularJS, ReactJS, React Native, Oracle, MySQL
 
-- 💻 I’m very excited to learn and work with WEB Development
+- 💻 I’m currently working as a software developer using the following technologies: ReactJS, NodeJS, Oracle, MySQL
 
 - 💬 Ask me about **AngularJS, ReactJS, React Native, Typescript**
 
